@@ -1,9 +1,10 @@
-# Responsive Portfolio Website Jhon Doe
+# Responsive Portfolio 
 
-## [Watch it on youtube](https://youtu.be/6cidbUHNZRQ)
+## do follow
 
-###  Responsive Portfolio Website
-A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name and a great image. Then the About section displays more information about you. Then the list of skills it offers. It also has a section where it shows some recent work. And at the bottom it has contact information and a form, and at the bottom a footer.
+###  Responsive Portfolio Website 
+You can download my cv by using the button on home page and at the tor right you can find the navigation button, it is usefull to clearly view the pages of my website
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+
+
+
